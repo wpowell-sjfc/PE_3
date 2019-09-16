@@ -8,6 +8,8 @@ Your assignment is to:
 2. Add your name and GitHub username to this ReadMe.md file
 3. Issue a Pull Request back to the main repository
 
+Helpful link: https://help.github.com/en/articles/fork-a-repo
+
 Professors who have completed this assignment:
 
 Students who have completed this assignment:
