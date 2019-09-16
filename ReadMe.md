@@ -12,5 +12,5 @@ Helpful link: https://help.github.com/en/articles/fork-a-repo
 
 Professors who have completed this assignment:
 
-Students who have completed this assignment:Shefki Beha (Username: BehaShefki), Matt Morgan (msm03177), Sam Sedia - srs09524
+Students who have completed this assignment:Shefki Beha (Username: BehaShefki), Matt Morgan (msm03177), Sam Sedia - srs09524, Joe Jerkovich (JoeJerkovich)
 
